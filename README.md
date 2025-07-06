@@ -6,7 +6,7 @@
 A Windows utility to completely remove Rec Room files and registry entries for a clean slate.
 
 ## 📥 Download
-[![Latest Release](https://img.shields.io/github/v/release/Pxcket/Flat-Rec-Room-Patcher?style=for-the-badge&label=Download)](https://github.com/Pxcket/Flat-Rec-Room-Patcher/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Pxcket/Flat-RecRoom-Patcher?style=for-the-badge&label=Download)](https://github.com/Pxcket/Flat-RecRoom-Patcher/releases/latest)
 
 Pre-built binaries available for:
 - Windows 10/11 (64-bit)
